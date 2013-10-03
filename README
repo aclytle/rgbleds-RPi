@@ -1,0 +1,1 @@
+Various programs to run different RGB LED light patterns. Switching is done with three power MOSFETs, one for each color. Gates are driven from RPi GPIO Pins 17, 27, 22. Uses the WiringPi library for PWM and GPIO functions.

@@ -1,0 +1,4 @@
+nano rgbledsimple.c
+gcc rgbledsimple.c -o rgbledsimple -lwiringPi
+sudo ./rgbledsimple
+
